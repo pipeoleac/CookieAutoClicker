@@ -6,7 +6,11 @@ Un script para un juego en el que tienes que hacer click sobre una galleta para 
 
 
 from selenium import webdriver
+
+
 import time
+
+
 from selenium.webdriver.common.by import By
 
 
